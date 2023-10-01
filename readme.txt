@@ -1,2 +1,3 @@
-git is a distributed
-git is free
+git is a system
+git is fred gpl
+git has a mutable
